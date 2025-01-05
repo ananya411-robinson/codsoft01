@@ -1,0 +1,2 @@
+# codsoft01
+PASSWORD GENERATOR 
